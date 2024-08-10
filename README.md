@@ -4,4 +4,4 @@ VocabVault is a webapp designed to help users find and learn the meanings and pr
 - Search for word definitions
 - Display parts of speech and phonetic transcription
 - Play pronunciation audio for the word 
-- Responsive design
+- Responsive design 
